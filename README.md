@@ -1,5 +1,5 @@
 # Week 4 project -  Getting and Cleaning Data in R
-Author -- Benedict Neo
+by Angie Adriana Caiza Chele
 
 This is the final project from the Coursera course Getting and Cleaning Data by John Hopkins. 
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set.
@@ -9,12 +9,12 @@ This repository includes 4 files, the R script named `run_analysis.R`, this read
 
 Goal | Item | Link to Item
 --- | --- | ---
-R Script |  run_analysis.R |  [Link](https://github.com/benthecoder/tidydataR/blob/main/run_analysis.R)
-Read_me file | README.md | [Link](https://github.com/benthecoder/tidydataR/blob/main/README.md)
-CodeBook file | CodeBook.md | [Link](https://github.com/benthecoder/tidydataR/blob/main/CodeBook.md)
-Tidy Data file |  Clean Data Set |  [Link](https://github.com/benthecoder/tidydataR/blob/main/tidyData.txt)
+R Script |  run_analysis.R |  [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/run_analysis%20.R)
+Read_me file | README.md | [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/edit/main/README.md)
+CodeBook file | CodeBook.md | [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/codebook)
+Tidy Data file |  Clean Data Set |  [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/tidyData.txt)
 
-### Review criteria of project
+summarize of project
 1. The submitted data set is tidy.
 2. The Github repo contains the required scripts.
 3. GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
@@ -32,7 +32,4 @@ One of the most exciting areas in all of data science right now is wearable comp
 * Data Description: [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 
-### References:
-* [thoughtful bloke blog](https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/)
-* [melting and casting article](https://ademos.people.uic.edu/Chapter8.html)
-* [codebook guide]()
+
