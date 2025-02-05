@@ -10,7 +10,7 @@ This repository includes 4 files, the R script named `run_analysis.R`, this read
 Goal | Item | Link to Item
 --- | --- | ---
 R Script |  run_analysis.R |  [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/run_analysis%20.R)
-Read_me file | README.md | [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/edit/main/README.md)
+Read_me file | README.md | [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/README.md)
 CodeBook file | CodeBook.md | [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/codebook)
 Tidy Data file |  Clean Data Set |  [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/tidyData.txt)
 
