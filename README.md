@@ -11,7 +11,7 @@ Goal | Item | Link to Item
 --- | --- | ---
 R Script |  run_analysis.R |  [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/run_analysis%20.R)
 Read_me file | README.md | [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/README.md)
-CodeBook file | CodeBook.md | [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/codebook)
+CodeBook file | CodeBook.md | [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/codebook.md)
 Tidy Data file |  Clean Data Set |  [Link](https://github.com/Angieadrianacaiza/projectgettingandcleningdata/blob/main/tidyData.txt)
 
 summarize of project
